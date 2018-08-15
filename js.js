@@ -12,3 +12,13 @@ function sumPress() {
 }
 
 
+/*
+
+Step 1:
+Complete
+
+Step 2:
+Incomplete. Not started.
+
+From Kenn
+*/
